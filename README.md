@@ -1,4 +1,4 @@
-# A Website Creator Written in Python
+# A Website Creator Written In Python
 
 This website creator is a small example in a big picture, the idea is that, you can connect this website creator to
 different python modules. Do you want to make a website scraper? Ez just connect this script to an website API
